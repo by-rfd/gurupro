@@ -1,0 +1,6 @@
+{
+  "name": "RFD GuruPro",
+  "description": "Pembuat Soal Otomatis dan Penyusun Rencana Modul Ajar Kurikulum Merdeka",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
